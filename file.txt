@@ -1,2 +1,6 @@
 "This is the main branch" 
+<<<<<<< HEAD
 "Feature branch changes" 
+=======
+"Another line from main" 
+>>>>>>> main
