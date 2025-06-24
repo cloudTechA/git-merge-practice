@@ -3,4 +3,8 @@
 "Feature branch changes" 
 =======
 "Another line from main" 
+<<<<<<< HEAD
+>>>>>>> main
+=======
+"Another line from main" 
 >>>>>>> main
